@@ -34,7 +34,7 @@
 Пример:
 
 ```bash
-python parse_word_to_excel.py tekstovye_zadachi_po_matematike.docx
+python parse_taskbook.py tekstovye_zadachi_po_matematike.docx
 ```
 
 **Результат будет сохранён в файл output.xlsx**
